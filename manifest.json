@@ -1,0 +1,9 @@
+{
+	"id": "ConversationMerger",
+	"title": "{{g|Conversation Merger}}",
+	"description": "An API mod to allow the use of Load=Merge for conversations.",
+	"version": "1.0.0",
+	"author": "{{c|jade2562}}",
+	"previewImage": "preview.png",
+	"loadorder": -1
+}

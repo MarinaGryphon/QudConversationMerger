@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 2568824129,
+  "Title": "Conversation Merger [Library]",
+  "Description": "A utility mod that allows other mods to use Load=\"Merge\" on conversations in Conversations.xml.",
+  "Tags": "Library,Conversation",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}
